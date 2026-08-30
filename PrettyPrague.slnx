@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrettyPrague.vcxproj" Id="3aec69c9-1614-4cef-8259-e97f923097f4" />
+</Solution>
